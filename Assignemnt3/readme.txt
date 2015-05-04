@@ -8,4 +8,4 @@ Python Code
 .
 
 Program Sample outputs:  
-5930 robot gui assignment 3.png               The hangman code outputs
+5930 robot gui assignment 3.png               The Robot gui outputs
